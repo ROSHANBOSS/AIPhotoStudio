@@ -1,6 +1,6 @@
 # AI Photo Studio
 
-[简体中文](README.md) · [Edit your first picture](docs/quick-start.en.md) · [Build on Windows](docs/build.md)
+[简体中文](README.md) · [Edit your first picture](docs/quick-start.en.md) · [Roadmap (items 41–65)](docs/roadmap.en.md) · [Build on Windows](docs/build.md)
 
 AI Photo Studio is a Windows photo editor for people who occasionally edit a portrait, a group picture or an everyday photo. **Version 0.5.0 is a work in progress.** Basic import, editing and export work. Some features are incomplete and bugs are possible. Most editing is manual. The offline AI assistant understands a limited set of instructions and proposes changes to the same controls you use by hand. You review a proposal before it becomes an edit.
 
@@ -9,6 +9,8 @@ AI Photo Studio is a Windows photo editor for people who occasionally edit a por
 **Windows users can run the portable app.** Under Releases → Assets, download **AIPhotoStudio-0.5.0-windows-x64-portable.zip**, select **Extract All**, then open **AIPhotoStudio.exe**. The green **Code → Download ZIP** button downloads source code that needs to be built. [Download the portable app](https://github.com/ROSHANBOSS/AIPhotoStudio/releases/download/v0.5.0/AIPhotoStudio-0.5.0-windows-x64-portable.zip) · [Startup and optional portrait features](docs/portable.md)
 
 ## Try it
+
+Already have a library? Back up your drafts and edit history before upgrading, and keep a separate copy of your original photos. [Upgrade, back up and restore](docs/portable.md#keep-your-drafts-when-upgrading)
 
 Build the source on Windows x64 using the [build instructions](docs/build.md), then open `build/development/AIPhotoStudio.exe`. Choose English or Simplified Chinese on the first launch. You can change the language in Settings. Users of the portable ZIP can skip the build.
 
