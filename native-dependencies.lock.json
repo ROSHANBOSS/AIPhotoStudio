@@ -1,0 +1,21 @@
+{
+  "sdk": {
+    "name": "Microsoft.Web.WebView2",
+    "version": "1.0.2535.41",
+    "source": "https://www.nuget.org/packages/Microsoft.Web.WebView2/1.0.2535.41",
+    "files": {
+      "Microsoft.Web.WebView2.Core.dll": "a1e096c6842b9f443679f47e321379d15e1f93c77fd0b6d32b9eb0e93e25ac89",
+      "Microsoft.Web.WebView2.WinForms.dll": "b12d2c15e93a0fc29a731bec998e7ddf073b3ae2454f3afdd9934bbe6a223d4a",
+      "runtimes/win-x64/native/WebView2Loader.dll": "e2004ecd9ddebd1bb7edfff5fa62781fe037eca4282c2be3483dc6f78779899c"
+    }
+  },
+  "npmTrees": {
+    "node_modules/typescript": "68a454533d107d0a11bb8a0ee25b8e31420166f294da8e7f2261cd9b15fc3bb3",
+    "node_modules/@types/react": "b9adb68723b01485018508d5b1c5836f0ca4cfbc639d44012b304abe45d0087a",
+    "node_modules/csstype": "3d91f6cd88a80dec440a239fb2e32bab46df05d7b35befa32fafac197c5d1b42",
+    "node_modules/react": "0693eb186e97f5f6f61debd511ebb1a0daf1b9abbde683086055e0c15466e3c4",
+    "node_modules/react-dom": "948092df3ece285a7672ea56b6069b76b54a7389e4b32685e3829c6ef12baeed",
+    "node_modules/scheduler": "c7cbc252fbabfd2fda485fd6d53fff2bae09ee34ab009e3c9ab3b20668d86e85",
+    "node_modules/@esbuild/win32-x64": "b4d922ea8b463b8e281bf8a60d57eaa1eace084692f720542807e77f5c8233bf"
+  }
+}

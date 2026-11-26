@@ -1,0 +1,25 @@
+{
+  "name": "aiphoto-studio",
+  "version": "0.5.0",
+  "private": true,
+  "description": "AIPhotoStudio Windows desktop photo editor",
+  "type": "module",
+  "packageManager": "npm@11.9.0",
+  "engines": {
+    "node": "24.14.x"
+  },
+  "scripts": {
+    "bootstrap": "node scripts/bootstrap.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node scripts/public-tests.mjs"
+  },
+  "dependencies": {
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@esbuild/win32-x64": "0.28.1",
+    "@types/react": "19.3.0",
+    "typescript": "5.9.3"
+  }
+}
